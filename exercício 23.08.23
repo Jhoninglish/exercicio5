@@ -1,0 +1,101 @@
+/*
+let a = 3;
+let b = 5;
+let c = 6;
+let d = 7;
+let e = 4;
+
+console.log(a % 2);
+console.log(b % 2);
+console.log(c % 2);
+console.log(d % 2);
+console.log(e % 2);
+
+let minhaIdade = 15;
+console.log("antes", minhaIdade);
+minhaIdade = minhaIdade + 1;
+console.log("depois", minhaIdade);
+
+let somar3 = 3;
+let somar4 = 4;
+
+console.log(somar3 + somar4);
+
+let multi3 = 3;
+let multi5 = 5; 
+let multi2 = 2;
+let multi1 = -1;
+
+console.log(multi3 * multi5 / 2);
+console.log((multi5 - somar4) * multi1);
+let multi6 = 234;
+let multi7 = 5;
+console.log(multi6 % multi7);
+
+let variavel1 = 3
+let variavel2 = 4
+
+console.log(variavel1 === variavel2);
+console.log(variavel1 != variavel2);
+console.log(variavel1 > variavel2);
+console.log(variavel1 < variavel2);
+
+let A = 3;
+let B = 2;
+let C = 5;
+
+console.log(A === B && A !== C);
+console.log(A === B || A !== C);
+
+console.log(true || false);
+console.log(true && false);
+console.log(true && true);
+
+let A = true;
+let B = false;
+let C = true;
+
+console.log(A < B);
+console.log(A > B);
+console.log(B < C);
+
+console.log(A && B);
+console.log(B && C);
+console.log(A && C);
+console.log(A && B && C);
+
+let A = true;
+let B = false;
+let C = true;
+
+console.log(A < B);
+console.log(A > B);
+console.log(B < C);
+
+console.log(A || B);
+console.log(B || C);
+console.log(A || C);
+console.log(A || B || C);
+
+let A = true;
+let B = false;
+
+console.log(A);
+console.log(!A);
+
+console.log(B);
+console.log(!B);
+
+let nome = "Pedro";
+let idade = 43;
+let maiordeidade = true;
+let idade2050 = 93;
+let nascimento = 1980;
+
+console.log("Nome:", nome);
+console.log("Ano de nascimento:", nascimento);
+console.log("Idade:",idade);
+console.log("Ele é maior de idade?", maiordeidade);
+console.log("Idade em 2050:", idade2050);
+
+*/
